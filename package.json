@@ -1,0 +1,19 @@
+{
+  "name": "vanity-sniper-nolicense",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shelovesmyars",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-webhook-node": "^1.1.8",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^2.7.0"
+  }
+}
